@@ -1,7 +1,6 @@
 # MathViz
 
-**Live Demo:** [https://math-viz-nine.vercel.app/](https://mathviz.vercel.app)
-
+**Live Demo:** [https://math-viz-nine.vercel.app](https://math-viz-nine.vercel.app)
 
 **MathViz** is an interactive, browser-based mathematical visualization tool built with React, TypeScript, D3, and Plotly. It allows users to input, manage, and visualize mathematical equations in real-time with precision and clarity.
 
